@@ -1,0 +1,136 @@
+{
+  "blogData": {
+    "blogDetails": {
+      "image": "assets/img/blog/single-blog.jpg",
+      "title": "Four ways cheer yourself Blue Monday!",
+      "authorImage": "assets/img/blog/author.jpg",
+      "authorName": "John R Peter",
+      "meta": [
+        {
+          "icon": "flaticon-calendar",
+          "content": "Jan 20, 2019"
+        },
+        {
+          "icon": "flaticon-speech-bubble",
+          "content": "Jan 20, 2019"
+        }
+      ],
+      "contentOne": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna ali Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irures dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat null pariatur. Excepteur sint occaecat cupidatat nonm proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor.",
+      "contentTwo": "sit amet, consectetur adipisicielit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis fvUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+      "contentThree": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+      "quote": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut lab et dolore magna ali Ut enim ad minim veniam",
+        "author": "Christian Weber"
+      },
+      "subTitle": "The meaning of black is Blue Monday",
+      "contentFour": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolor magna ali Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip e eacommodot consequa. Duis aute irures dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuo Excepteur sint occcat cupidatat nonm proident, sunt in culpa qu officia deserunt mollit",
+      "contentFive": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolor magna ali Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+      "share": {
+        "title": "Share:",
+        "socileList": [
+          {
+            "icon": "flaticon-facebook",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-twitter",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-instagram",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-linkedin",
+            "link": "#!"
+          }
+        ]
+      }
+    },
+    "asideBlog": {
+      "recentPost": {
+        "title": "Recent Posts",
+        "singleRecent": [
+          {
+            "image": "assets/img/blog/recent-post.jpg",
+            "pubDate": "jan 06 2021",
+            "title": "Ye on properly handsome returned throwing am",
+            "postLink": "#!"
+          },
+          {
+            "image": "assets/img/blog/recent-post2.jpg",
+            "pubDate": "jan 06 2021",
+            "title": "Ye on properly handsome returned throwing am",
+            "postLink": "#!"
+          },
+          {
+            "image": "assets/img/blog/recent-post3.jpg",
+            "pubDate": "jan 06 2021",
+            "title": "Ye on properly handsome returned throwing am",
+            "postLink": "#!"
+          },
+          {
+            "image": "assets/img/blog/recent-post4.jpg",
+            "pubDate": "jan 06 2021",
+            "title": "Ye on properly handsome returned throwing am",
+            "postLink": "#!"
+          }
+        ]
+      },
+      "category": {
+        "title": "Categories",
+        "singleCategory": [
+          {
+            "cateName": "Success Stories",
+            "cateLink": "#!"
+          },
+          {
+            "cateName": "Gym Personal Trainer",
+            "cateLink": "#!"
+          },
+          {
+            "cateName": "Workout",
+            "cateLink": "#!"
+          },
+          {
+            "cateName": "Excercies",
+            "cateLink": "#!"
+          },
+          {
+            "cateName": "Healthy Living",
+            "cateLink": "#!"
+          },
+          {
+            "cateName": "Nutrition & Weight Loss",
+            "cateLink": "#!"
+          }
+        ]
+      },
+      "tags": {
+        "title": "Tags",
+        "singleTag": [
+          {
+            "tagName": "Griphic Design",
+            "tagLink": "#!"
+          },
+          {
+            "tagName": "Web Design",
+            "tagLink": "#!"
+          },
+          {
+            "tagName": "HTML",
+            "tagLink": "#!"
+          },
+          {
+            "tagName": "WordPress",
+            "tagLink": "#!"
+          },
+          {
+            "tagName": "React",
+            "tagLink": "#!"
+          }
+        ]
+      }
+    }
+  }
+}

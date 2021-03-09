@@ -1,0 +1,808 @@
+{
+    "sectionData": {
+        "header": {
+            "headerNavigationTop": {
+                "logo": "assets/img/logo.png",
+                "meta": [{
+                        "icon": "flaticon-phone-call",
+                        "contentOne": "Contact Available",
+                        "contentTwo": "(+00)888.666.88"
+                    },
+                    {
+                        "icon": "flaticon-placeholder",
+                        "contentOne": "Our Location",
+                        "contentTwo": "New York city, US"
+                    }
+                ]
+            },
+            "navigation": [
+                [{
+                    "name": "Home",
+                    "pageLink": "/"
+                }]
+            ]
+        },
+        "sectionTitle": {
+            "about": {
+                "title": "About Page",
+                "pageName": "About",
+                "background": "assets/img/page-title.png"
+            },
+            "service": {
+                "title": "Service Page",
+                "pageName": "Service",
+                "background": "assets/img/page-title.png"
+            },
+            "project": {
+                "title": "Project Page",
+                "pageName": "Project",
+                "background": "assets/img/page-title.png"
+            },
+            "singleProject": {
+                "title": "Single Project",
+                "pageName": "Project Details",
+                "background": "assets/img/page-title.png"
+            },
+            "blog": {
+                "title": "Blog Page",
+                "pageName": "Blog",
+                "background": "assets/img/page-title.png"
+            },
+            "singleBlog": {
+                "title": "Single Blog",
+                "pageName": "Blog Details",
+                "background": "assets/img/page-title.png"
+            },
+            "faq": {
+                "title": "FAQ Page",
+                "pageName": "faq",
+                "background": "assets/img/page-title.png"
+            },
+            "team": {
+                "title": "Team Page",
+                "pageName": "team",
+                "background": "assets/img/page-title.png"
+            },
+            "pricing": {
+                "title": "Pricing Page",
+                "pageName": "Pricing",
+                "background": "assets/img/page-title.png"
+            },
+            "contact": {
+                "title": "Contact Page",
+                "pageName": "Contact",
+                "background": "assets/img/page-title.png"
+            },
+            "error": {
+                "title": "404 Page",
+                "pageName": "404",
+                "background": "assets/img/page-title.png"
+            }
+        },
+        "banner": {
+            "subtitle": "Experience in Bulding.",
+            "title": "Standard Construction in Worldwide!",
+            "content1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt",
+            "content2": "ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+            "background": "assets/img/hero/hero1.jpg",
+            "channelName": "youtube",
+            "videoId": "LCmsrVOXzZc"
+        },
+        "bannerV2": {
+            "background": "assets/img/hero/home2-hero1.jpg",
+            "slider": [{
+                    "subtitle": "Experience in Bulding.",
+                    "title": "Standard Construction in Worldwide !",
+                    "content1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt",
+                    "content2": "ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                    "image": "assets/img/hero/home2-man.png",
+                    "channelName": "youtube",
+                    "videoId": "LCmsrVOXzZc"
+                },
+                {
+                    "subtitle": "Experience in Bulding.",
+                    "title": "Standard Construction in Worldwide !",
+                    "content1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt",
+                    "content2": "ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                    "image": "assets/img/hero/home2-man2.png",
+                    "channelName": "youtube",
+                    "videoId": "LCmsrVOXzZc"
+                }
+            ]
+        },
+        "feature": [{
+                "title": "Budget Planning",
+                "content": "Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim, quis nostrud",
+                "icon": "flaticon-oil-pump"
+            },
+            {
+                "title": "Interior Design",
+                "content": "Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim, quis nostrud",
+                "icon": "flaticon-construction-1"
+            },
+            {
+                "title": "Project Planning",
+                "content": "Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim, quis nostrud",
+                "icon": "flaticon-project"
+            }
+        ],
+        "about": {
+            "subtitle": "BUILDING IT RIGHT",
+            "title": "Quality and Affordable Constructor",
+            "content": "Decay is caused by bacteria that collect on teeth and feed on the arbohydrates in our diet. The bacteria produce acid that wears away at the enamel on our teeth. If decay is left untreated, it can cause pain infen.",
+            "metaList": [{
+                    "itemContent": "Nunc iaculis libero in ipsum molestie fermentum, a molestie nulla aliquet."
+                },
+                {
+                    "itemContent": "Integer egestas metus blandit sagittis vestibulum."
+                },
+                {
+                    "itemContent": "Integer eget massa malesuada, semper metus in, mattis diam."
+                },
+                {
+                    "itemContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                }
+            ],
+            "experience": "25 Years Experience",
+            "image": "assets/img/about.jpg"
+        },
+        "aboutV2": {
+            "title": "We Can Serve all of your Construction Needs",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, s eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut eni minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu ea commodo consequat. Duis aute irure dolor in",
+            "experience": "25 Years Experience",
+            "image": "assets/img/about2.jpg",
+            "quoteContent": "We have been devoted to design for many years, our goal is advance design and visuality and produce new styles.",
+            "quoteTitle": "Ceo founder - By Adrian Salves"
+        },
+        "video": {
+            "background": "assets/img/videobg.jpg",
+            "channelName": "youtube",
+            "videoId": "LCmsrVOXzZc"
+        },
+        "counter": {
+            "background": "assets/img/counter.png",
+            "singleCounter": [{
+                    "value": 2537,
+                    "title": "Completed Projects",
+                    "icon": "flaticon-architect"
+                },
+                {
+                    "value": 257,
+                    "title": "Happy Clients",
+                    "icon": "flaticon-hook"
+                },
+                {
+                    "value": 357,
+                    "title": "Cup of Coffee",
+                    "icon": "flaticon-project"
+                },
+                {
+                    "value": 2537,
+                    "title": "Line of Codes",
+                    "icon": "flaticon-interior-design"
+                }
+            ]
+        },
+
+        "service": {
+            "serviceSectionHeading": {
+                "title": "Services We are Offering",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "singleService": [{
+                    "icon": "flaticon-architect",
+                    "image": "assets/img/service/service1.jpg",
+                    "animation": "fadeInRight",
+                    "title": "Construction Service",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                },
+                {
+                    "icon": "flaticon-hook",
+                    "image": "assets/img/service/service2.jpg",
+                    "animation": "fadeInUp",
+                    "title": "Infrastructure Service",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                },
+                {
+                    "icon": "flaticon-project",
+                    "image": "assets/img/service/service3.jpg",
+                    "animation": "fadeInLeft",
+                    "title": "Architecture Service",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                },
+                {
+                    "icon": "flaticon-oil-pump",
+                    "image": "assets/img/service/service4.jpg",
+                    "animation": "fadeInRight",
+                    "title": "Budget Planning",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                },
+                {
+                    "icon": "flaticon-interior-design",
+                    "image": "assets/img/service/service5.jpg",
+                    "animation": "fadeInDown",
+                    "title": "Interior Design",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                },
+                {
+                    "icon": "flaticon-construction-1",
+                    "image": "assets/img/service/service6.jpg",
+                    "animation": "fadeInLeft",
+                    "title": "Project Planning",
+                    "content": "Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt uty labore et dolore magna aliqua. Ut enimd minim veniam, quis nostrud"
+                }
+            ]
+        },
+        "project": {
+            "sectionHeading": {
+                "title": "Our Best Projects",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "singleProject": {
+                "filterBtn": [
+                    { "name": "All", "value": "All", "isActive": true },
+                    { "name": "Commercial", "value": "Commercial", "isActive": false },
+                    { "name": "Designer", "value": "Designer", "isActive": false },
+                    { "name": "Exterior", "value": "Exterior", "isActive": false },
+                    { "name": "Furniture", "value": "Furniture", "isActive": false },
+                    { "name": "Interior", "value": "Interior", "isActive": false }
+                ],
+                "filterItem": [{
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project1.jpg",
+                        "category": "Commercial",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "555",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 1
+                    },
+                    {
+                        "origin": ["Designer", "Commercial", "Interior"],
+                        "image": "assets/img/project/project2.jpg",
+                        "category": "Designer",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "559",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 2
+                    },
+                    {
+                        "origin": ["Designer", "Exterior"],
+                        "image": "assets/img/project/project3.jpg",
+                        "category": "Exterior",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "558",
+                        "completedYear": "2018",
+                        "location": "London Donec eleifend",
+                        "id": 3
+                    },
+                    {
+                        "origin": ["Furniture", "Interior", "Exterior"],
+                        "image": "assets/img/project/project4.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5553",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 4
+                    },
+                    {
+                        "origin": ["Interior", "Exterior", "Designer"],
+                        "image": "assets/img/project/project5.jpg",
+                        "category": "Interior",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5505",
+                        "completedYear": "2020",
+                        "location": "London Donec eleifend",
+                        "id": 5
+                    },
+                    {
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project6.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5055",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 6
+                    }
+                ]
+            },
+            "background": "assets/img/project/bg.jpg"
+        },
+        "projectV2": {
+            "sectionHeading": {
+                "title": "Our Best Projects",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "singleProject": {
+                "filterBtn": [
+                    { "name": "All", "value": "All", "isActive": true },
+                    { "name": "Commercial", "value": "Commercial", "isActive": false },
+                    { "name": "Designer", "value": "Designer", "isActive": false },
+                    { "name": "Exterior", "value": "Exterior", "isActive": false },
+                    { "name": "Furniture", "value": "Furniture", "isActive": false },
+                    { "name": "Interior", "value": "Interior", "isActive": false }
+                ],
+                "filterItem": [{
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project7.jpg",
+                        "category": "Commercial",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "555",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 7
+                    },
+                    {
+                        "origin": ["Designer", "Commercial", "Interior"],
+                        "image": "assets/img/project/project8.jpg",
+                        "category": "Designer",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "559",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 8
+                    },
+                    {
+                        "origin": ["Designer", "Exterior"],
+                        "image": "assets/img/project/project9.jpg",
+                        "category": "Exterior",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "558",
+                        "completedYear": "2018",
+                        "location": "London Donec eleifend",
+                        "id": 9
+                    },
+                    {
+                        "origin": ["Furniture", "Interior", "Exterior"],
+                        "image": "assets/img/project/project10.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5553",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 10
+                    },
+                    {
+                        "origin": ["Interior", "Exterior", "Designer"],
+                        "image": "assets/img/project/project11.jpg",
+                        "category": "Interior",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5505",
+                        "completedYear": "2020",
+                        "location": "London Donec eleifend",
+                        "id": 11
+                    },
+                    {
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project12.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5055",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 12
+                    },
+                    {
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project13.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5055",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 13
+                    },
+                    {
+                        "origin": ["Commercial", "Furniture"],
+                        "image": "assets/img/project/project14.jpg",
+                        "category": "Furniture",
+                        "title": "Construction Management",
+                        "detailedTitle": "Electrical Wiring concept, San Jose",
+                        "value": "5055",
+                        "completedYear": "2019",
+                        "location": "London Donec eleifend",
+                        "id": 14
+                    }
+                ]
+            },
+            "background": "assets/img/project/bg.jpg"
+        },
+        "team": {
+            "sectionHeading": {
+                "title": "Quality Team Members",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "member": [{
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Myccale Jonnson",
+                    "designation": "Co-Founder",
+                    "image": "assets/img/team/team1.jpg"
+                },
+                {
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Saidul Islam",
+                    "designation": "Designer",
+                    "image": "assets/img/team/team2.jpg"
+                },
+                {
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Nazmul Islam",
+                    "designation": "Developer",
+                    "image": "assets/img/team/team3.jpg"
+                },
+                {
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Amariya Stephany",
+                    "designation": "Co-Founder",
+                    "image": "assets/img/team/team4.jpg"
+                },
+                {
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Thomas Aldin",
+                    "designation": "Co-Founder",
+                    "image": "assets/img/team/team5.jpg"
+                },
+                {
+                    "facebookLink": "#!",
+                    "twitterLink": "#!",
+                    "linkdinLink": "#!",
+                    "instagramLink": "#!",
+                    "name": "Arnold Henson",
+                    "designation": "Co-Founder",
+                    "image": "assets/img/team/team6.jpg"
+                }
+            ],
+            "background": "assets/img/team/bg.jpg"
+        },
+        "client": {
+            "sectionHeading": {
+                "title": "What client Says?",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "clientReview": [{
+                    "image": "assets/img/testimonial/test1.jpg",
+                    "name": "Hlison Burgas",
+                    "designation": "Designer",
+                    "comment": "We are full service Digital Marketing Agency the foundati need for inbound go another day. With this module go another day. goms to With this anotherday"
+                },
+                {
+                    "image": "assets/img/testimonial/test2.jpg",
+                    "name": "Mosiur Rahman",
+                    "designation": "Developer",
+                    "comment": "We are full service Digital Marketing Agency the foundati need for inbound go another day. With this module go another day. goms to With this anotherday"
+                }
+            ]
+        },
+        "blog": {
+            "sectionHeading": {
+                "title": "Latest News and Articles",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "background": "assets/img/blog/bg.jpg",
+            "singleBlog": [{
+                    "image": "assets/img/blog/blog1.jpg",
+                    "title": "What is Best domin Name for Business",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                },
+                {
+                    "image": "assets/img/blog/blog2.jpg",
+                    "title": "Superior clean through our trained staff",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                },
+                {
+                    "image": "assets/img/blog/blog3.jpg",
+                    "title": "International project of the year winner",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                },
+                {
+                    "image": "assets/img/blog/blog4.jpg",
+                    "title": "The company works behind the logical view",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                },
+                {
+                    "image": "assets/img/blog/blog5.jpg",
+                    "title": "Plans to resume early in December",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                },
+                {
+                    "image": "assets/img/blog/blog6.jpg",
+                    "title": "International project of the year winner",
+                    "content": "Lorem ipsum dolor sit amet consectetu adipisicing elit, sed do eiusm"
+                }
+            ]
+        },
+        "pricing": {
+            "sectionHeading": {
+                "title": "Our Pricing Plans",
+                "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciunt consectetuer adipiscing elit, sed diam nonummy"
+            },
+            "singlePrice": [{
+                    "activeStatus": false,
+                    "title": "Basic Package",
+                    "icon": "flaticon-paper-plane",
+                    "amount": "249",
+                    "duration": "3",
+                    "features": [{
+                            "icon": "flaticon-check",
+                            "content": "40 Space Users"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "15 GB Space"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "Unlimtied Bandwith"
+                        },
+                        {
+                            "icon": "flaticon-close",
+                            "content": "Support Reports"
+                        }
+                    ]
+                },
+                {
+                    "activeStatus": true,
+                    "title": "Premium Package",
+                    "icon": "flaticon-airplane",
+                    "amount": "2599",
+                    "duration": "3",
+                    "features": [{
+                            "icon": "flaticon-check",
+                            "content": "40 Space Users"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "15 GB Space"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "Unlimtied Bandwith"
+                        },
+                        {
+                            "icon": "flaticon-close",
+                            "content": "Support Reports"
+                        }
+                    ]
+                },
+                {
+                    "activeStatus": false,
+                    "title": "Standard Package",
+                    "icon": "flaticon-fire",
+                    "amount": "999",
+                    "duration": "3",
+                    "features": [{
+                            "icon": "flaticon-check",
+                            "content": "40 Space Users"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "15 GB Space"
+                        },
+                        {
+                            "icon": "flaticon-check",
+                            "content": "Unlimtied Bandwith"
+                        },
+                        {
+                            "icon": "flaticon-close",
+                            "content": "Support Reports"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "sectionHeading": {
+                "title": "Want to ask something from us?",
+                "content": "Asi enim ad minim veniam, quis nostrud exerci Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor"
+            },
+            "singleFaq": [{
+                    "title": "Experience A Ranking Factor?",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing e eiutempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation",
+                    "status": true
+                },
+                {
+                    "title": "What about permits? ",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing e eiutempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation",
+                    "status": false
+                },
+                {
+                    "title": "What about Materils?",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing e eiutempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation",
+                    "status": false
+                },
+                {
+                    "title": "What is a change orders?",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing e eiutempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation",
+                    "status": false
+                }
+            ],
+            "faqVideo": {
+                "background": "assets/img/faq.jpg",
+                "channelName": "youtube",
+                "videoId": "LCmsrVOXzZc"
+            }
+        },
+        "mapDescription": {
+            "mapLetLng": {
+                "center": {
+                    "lat": 22.938437,
+                    "lng": 90.828876
+                }
+            },
+            "markerLet": 22.938437,
+            "markerLng": 90.628876,
+            "zoom": 11,
+            "apiKey": "AIzaSyCjkssBA3hMeFtClgslO2clWFR6bRraGz0"
+        },
+        "contact": {
+            "getAdvice": {
+                "title": "Get Advices",
+                "address": [{
+                        "icon": "flaticon-home",
+                        "title": "Address",
+                        "contentOne": "1650 Lombard Street",
+                        "contentTwo": "San Francisco, CA 94123"
+                    },
+                    {
+                        "icon": "flaticon-phone-call-1",
+                        "title": "Phone",
+                        "contentOne": "+1 (415) 876-3250",
+                        "contentTwo": "+1 (415) 876-3251"
+                    },
+                    {
+                        "icon": "flaticon-envelope-1",
+                        "title": "E-mail",
+                        "contentOne": "email@sitename.com",
+                        "contentTwo": "example@sitename.com"
+                    }
+                ]
+            },
+            "inputInfo": {
+                "title": "Get a free Quote"
+            }
+        },
+        "footer": {
+            "background": "assets/img/footer.jpg",
+            "footerTop": {
+                "title": "Want to connect with us?"
+            },
+            "mainFooter": {
+                "about": {
+                    "title": "About",
+                    "content": "Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus risus .",
+                    "phone": "1-877-632-6789",
+                    "social": {
+                        "facebookLink": "#!",
+                        "twitterLink": "#!",
+                        "linkdinLink": "#!",
+                        "instagramLink": "#!"
+                    }
+                },
+                "pageLink": {
+                    "title": "Page",
+                    "pageLink": [{
+                            "pageName": "Home",
+                            "pageLink": "/"
+                        },
+                        {
+                            "pageName": "About Us",
+                            "pageLink": "/about"
+                        },
+                        {
+                            "pageName": "Blog",
+                            "pageLink": "/blog"
+                        },
+                        {
+                            "pageName": "Contact",
+                            "pageLink": "/contact"
+                        },
+                        {
+                            "pageName": "Pricing",
+                            "pageLink": "/pricing"
+                        },
+                        {
+                            "pageName": "Project",
+                            "pageLink": "/project"
+                        }
+                    ]
+                },
+                "latestPost": {
+                    "title": "Latest News",
+                    "singleLatest": [{
+                            "image": "assets/img/blog/latest1.jpg",
+                            "title": "I am a hospitalist and I love my expert.",
+                            "publishDate": "December 13, 2020"
+                        },
+                        {
+                            "image": "assets/img/blog/latest2.jpg",
+                            "title": "We had participated in a clinical.",
+                            "publishDate": "December 13, 2020"
+                        }
+                    ]
+                },
+                "workingHour": {
+                    "title": "Working Hours",
+                    "wordsDay": [{
+                            "dayName": "Monday",
+                            "startTime": "10:00",
+                            "endTime": "11:00"
+                        },
+                        {
+                            "dayName": "Tuesday",
+                            "startTime": "10:00",
+                            "endTime": "11:00"
+                        },
+                        {
+                            "dayName": "Wednesday",
+                            "startTime": "10:00",
+                            "endTime": "11:00"
+                        },
+                        {
+                            "dayName": "Friday",
+                            "startTime": "10:00",
+                            "endTime": "11:00"
+                        },
+                        {
+                            "dayName": "Saturday",
+                            "startTime": "10:00",
+                            "endTime": "11:00"
+                        }
+                    ]
+                }
+            },
+            "footerBottom": {
+                "copyRightYear": "2021",
+                "copyRightFrom": "SITL",
+                "copyRightLink": "sitlbd.com",
+                "bottomPageLink": [{
+                        "pageName": "Home",
+                        "pageLink": "/"
+                    },
+                    {
+                        "pageName": "About",
+                        "pageLink": "/about"
+                    },
+                    {
+                        "pageName": "Service",
+                        "pageLink": "/service"
+                    },
+                    {
+                        "pageName": "Contact",
+                        "pageLink": "/contact"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+  "projectData": {
+    "projectDetails": {
+      "image": "assets/img/project/project-details.jpg",
+      "title": "Electrical Wiring concept, San Jose",
+      "contentOne": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut lab dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex eaty commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fiat nul pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laudantium, totam rem aperiam, eaque ipsa quae ab illo",
+      "contentTwo": "vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugitui sed quia consequuntur magni dolores eos qui r voluptatemt sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci",
+      "subTitle": "Project Goals",
+      "descriptionImage": "assets/img/project/project-bottom.jpg",
+      "contentThree": "Lorem ipsum dolor sit amet, consectetur adipisicin elit, sed do eiusmod tempor incididunt ut labore et doloret magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco laboris",
+      "contentFour": "nisi ut aliquip ex ea commodo consequat. Duis autetu irure dolor in reprehenderit in voluptate velit essede cillum dolore eu fugiat nulla pariatur",
+      "contentFive": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat qui ducimus illum modi? perspiciatis accusamus soluta perferendis, ad illum, nesciunt, reiciendis iusto et cupidit Repudiandae provident to consectetur, sapiente, libero iure necessitatibus corporis nulla voluptate, quisquam aut perspiciatis? Fugiat labore aspernatur eius, perspiciatis ut molestiae, delectus rem."
+    },
+    "projectSideBar": {
+      "imageGallery": [
+        "assets/img/project/more1.jpg",
+        "assets/img/project/more2.jpg"
+      ],
+      "projectInfo": {
+        "title": "Project Information",
+        "infoList": [
+          {
+            "title": "Project Name:",
+            "content": "Construction Company"
+          },
+          {
+            "title": "Value:",
+            "content": "$550.000"
+          },
+          {
+            "title": "Completed Year:",
+            "content": "2020"
+          },
+          {
+            "title": "Delivery Mode:",
+            "content": "Stipulated Price"
+          },
+          {
+            "title": "Location:",
+            "content": "London Donec eleifend"
+          }
+        ]
+      },
+      "share": {
+        "title": "SHARE :",
+        "socialList": [
+          {
+            "icon": "flaticon-facebook",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-twitter",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-instagram",
+            "link": "#!"
+          },
+          {
+            "icon": "flaticon-linkedin",
+            "link": "#!"
+          }
+        ]
+      }
+    }
+  }
+}
