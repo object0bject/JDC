@@ -20,17 +20,17 @@ function AppRoute() {
         < BrowserRouter >
             < Switch >
                 < Route path = '/' exact component = { Home } />  
-                < Route path = { `/home-v2` } component = { HomeV2 } /> 
+                {/* < Route path = { `/home-v2` } component = { HomeV2 } />  */}
                 < Route path = { `/about` } component = { About } />  
                 < Route path = { `/service` } component = { Service } /> 
                 < Route path = { `/project` } component = { Project } />  
                 < Route path = { `${process.env.PUBLIC_URL}/project-details/:id` } component = { SingleProjectPage } /> 
                 < Route path = { `/project-details` } component = { SingleProjectPage } />  
-                < Route path = { `/blog` } component = { BlogPage } />  
-                < Route path = { `/blog-details` } component = { SingleBlogPage } />  
+                {/* < Route path = { `/blog` } component = { BlogPage } />   */}
+                {/* < Route path = { `/blog-details` } component = { SingleBlogPage } />   */}
                 < Route path = { `/faq` } component = { FaqPage } /> 
                 < Route path = { `/team` } component = { TeamPage } />  
-                < Route path =  '/pricing' component = { PricingPage } />  
+                {/* < Route path =  '/pricing' component = { PricingPage } />   */}
                 < Route path = "/contact" component = { ContactPage }/> 
                 < Route path='*' component = { ErrorPage }/> 
             </ Switch> 

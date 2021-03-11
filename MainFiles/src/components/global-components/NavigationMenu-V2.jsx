@@ -52,11 +52,7 @@ const NavigationMenuV2 =(props)=>{
                   {/* <!-- main menu --> */}
                       <ul style={window.innerWidth < 992 ?  {   display: `${navHide ? 'block': 'none'}`} :  {   display: `${navHide ? 'block': 'block'}`} }>
                           <li>
-                              <Link to="#!">Home</Link>
-                              <ul>
-                                  <li><Link to="/">Home 1</Link></li>
-                                  <li><Link to="/home-v2">Home 2</Link></li>
-                              </ul>
+                              <Link to="/">Home</Link>
                           </li>
                           <li>
                               <Link to="#!">Page</Link>
@@ -76,18 +72,6 @@ const NavigationMenuV2 =(props)=>{
                                   <Link to="/project-details">Project Detais</Link>
                                   </li>
                               </ul>
-                          </li>
-                          <li>
-                              <Link to="/pricing">Pricing</Link>
-                          </li>
-                          <li>
-                              <Link to="#!">Blog</Link>
-                          <ul>
-                              <li><Link to="/blog">Blog</Link></li>
-                              <li>
-                                  <Link to="/blog-details">Blog Details</Link>
-                              </li>
-                          </ul>
                           </li>
                           <li>
                               <Link to="/contact">Contact</Link>
